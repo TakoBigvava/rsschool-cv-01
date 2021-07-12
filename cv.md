@@ -118,10 +118,10 @@ return newArr.join('');
 ```
 
 **Experience** in responsive web design:
-project for photopgrapher site.  custom html template for wordpress.
+project for photopgrapher site. Created custom html template for wordpress.
 (https://www.rajebashvili.ge/about/)
 
-project for social agency site.  custom html template for wordpress.
+project for social agency site. Created custom html template for wordpress.
 (https://www.motomo.ge)
 
 
