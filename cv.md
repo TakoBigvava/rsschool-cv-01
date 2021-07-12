@@ -123,3 +123,17 @@ project for photopgrapher site.  custom html template for wordpress.
 
 project for social agency site.  custom html template for wordpress.
 (https://www.motomo.ge)
+
+
+**Education**
+   * User Experience Design Essentials - Adobe XD UI UX Design 
+(https://www.udemy.com/certificate/UC-17a78c45-e213-4fb9-9c75-d32f43b535a7/)
+
+   * Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+(https://www.udemy.com/certificate/UC-26c14ac0-fcde-4b8a-b351-f2b96889427d/)
+
+   * javascript algorithms and data structures
+   (https://freecodecamp.org/certification/fcc14104ef6-b369-4f0a-bae4-b2aad3630866/javascript-algorithms-and-data-structures)
+
+**English**
+12+ years of spoken English in business environement.
