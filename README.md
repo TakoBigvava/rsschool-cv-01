@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/TakoBigvava/rsschool-cv/
