@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+html {
+    box-sizing: border-box;
+  }
+
+ol, 
+ul {
+	list-style: none;
+}
+li {
+    border-bottom: solid 1px rgb(161, 161, 161);
+    margin: 1px;
+    
+   
+}
+  
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0865c2;
+}
+
+.persona {
+  color: grey;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  display: grid;
+  background-color: #EEEEEE;
+  color: black;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1rem;
+}
+
+span {
+    display: inline;
+}
+.content {
+  display: grid;
+  justify-content: center;
+  width: 100%;
+ 
+}
+
+header {
+  display: grid;
+  justify-items: center;
+  width: 100%;
+  
+}
+figure {
+  position: relative;
+  display: grid;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+figcaption {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  position: absolute;
+  top: 0;
+  right: -8px;
+  bottom: 0;
+}
+
+.cv-picture {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: solid 0.8rem #ffffff;
+}
+
+h1 {
+  font-size: 1.6rem;
+
+}
+
+blockquote {
+  margin: 1rem 0;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  text-align: center;
+ 
+}
+
+section {
+  margin: 1rem 0 0 0;
+  padding: 0 1rem;
+  width: 90%;
+  
+}
+.bold-part {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+code {
+    background-color: #D3D3D3;
+    width: 100%;
+}
+
+footer {
+  display: grid;
+  justify-items: center;
+  margin: 2rem 0 0 0;
+  background-color: #ffffff;
+  width:100%;
+  
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin: 1rem;
+}
+
+@media (max-width: 600px) {
+   
+    code {
+        font-size: 0.6rem;
+      } 
+    .bold-part {
+    font-weight: 600;
+    font-size: 1rem;
+    }
+    
+  
+  }
